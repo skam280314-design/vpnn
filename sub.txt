@@ -1,5 +1,6 @@
-#profile-title: 🧪 Himki VPN
-#support: @yahimki
+# profile-title: 🧪 Himki VPN
+# profile-update-interval: 24
+# support-url: t.me/yahimki
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkbHVrQnlzNXZubXYyUmFVWWQ3OGRC@luckyvpn-vena.outlinekeys.net:1090#🇦🇹 Австрия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTDd5N0t5cmI3T0Q0WWFQSUxIcFZu@curwa.outlinekeys.net:8443#🇵🇱 Польша
